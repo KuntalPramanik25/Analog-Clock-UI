@@ -1,4 +1,4 @@
-# Analog-Clock-UI
+# Clock-UI
 Light Theme and Dark Theme Analog Clock
 
 # Themes
